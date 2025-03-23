@@ -155,7 +155,7 @@ pip install telethon colorama
 ## 👤 Автор
 
 **Пикарина / Дэн**  
-Telegram: [@твой_ник](https://t.me/твой_ник)
+Telegram: [@твой_ник](https://t.me/Falruper)
 
 ---
 
